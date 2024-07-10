@@ -1,0 +1,9 @@
+[submodule "react-movie-app"]
+	path = react-movie-app
+	url = https://github.com/Zairi-Maissene/react-movie-app.git
+[submodule "react-native-movie-app"]
+	path = react-native-movie-app
+	url = https://github.com/Zairi-Maissene/react-native-movie-app.git
+[submodule "nestjs-movies-api"]
+	path = nestjs-movies-api
+	url = https://github.com/Zairi-Maissene/nestjs-movies-api
